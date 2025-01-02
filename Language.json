@@ -1,11 +1,12 @@
 [
+ 
 {
  "Country": "VN",
- "Language": "Vietnamese"
+ "Language": ["Vietnamese"]
 },
 {
  "Country": "SG",
- "Language": "English"
+ "Language": ["Korean"]
 }
 
 ]
